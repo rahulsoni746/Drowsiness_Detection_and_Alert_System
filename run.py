@@ -3,7 +3,7 @@ import torch
 from ultralytics import YOLO
 
 # give the path of model 
-model = YOLO("sample_model\model.pt")
+model = YOLO("sample_model\model.onnx")
 
 # if you want to predict on custom date (photos or videos) just replace zero "0" with path of data
 cap = cv2.VideoCapture(0)
