@@ -20,7 +20,7 @@ We use latest deep learning model which provide the accuracy approximately than 
 
 ## Procedure
 
-#Open terminal and run **_{pip install pyttsx3 ultralytics}_**
+#Open terminal and run **_{```pip install pyttsx3 ultralytics```}_**
 
 #And run **"run.py"**
 
