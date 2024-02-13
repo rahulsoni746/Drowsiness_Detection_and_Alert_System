@@ -30,7 +30,7 @@ Use labelimg library to label the images to create a label data set and train ou
 
 <img src="Source\Images\Labeling.png" alt="Input Image" style="width:600px;"/>
 
-## Traning Data
+### Traning Data
 <img src="Source\Images\TraningData.png" alt="Output Image" style="width:600px;"/>
 
 ## Traning Rusult
