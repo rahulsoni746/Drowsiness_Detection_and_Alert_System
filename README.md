@@ -16,11 +16,11 @@ We use latest deep learning model which provide the accuracy approximately than 
 
 •	numpy
 
-•	playsound
+•	pyttsx3
 
 ## Procedure
 
-#Open terminal and run **_{```pip install pyttsx3 ultralytics```}_**
+#Open terminal and run **_{```pip install requirements.txt```}_**
 
 #And run **"run.py"**
 
