@@ -28,7 +28,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd <path>
+  cd <directorypath>
 ```
 
 Install dependencies
@@ -104,6 +104,14 @@ cv2.destroyAllWindows()
 [![GitHub](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2F&style=social&logo=GitHub&logoColor=Black&label=GitHub&labelColor=abcdef&color=fedcba&cacheSeconds=3600
 )](https://github.com/rahulsoni746)
 
+
+
 ## Feedback
 
 If you have any feedback, please reach out to us at rahulsoni@gmail.com
+
+Or
+
+[![GitHub](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com&style=social&logo=GitHub&label=issue&labelColor=grey&color=grey
+)](https://github.com/rahulsoni746/Drowsiness_Detection_and_Alert_System/issues)
+
