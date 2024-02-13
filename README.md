@@ -7,7 +7,7 @@ We use latest deep learning model which provide the accuracy approximately than 
 
 ## Packages Used
 
-| Packages             | Versions                                                                |
+| **Package**             | **Version**                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 | Python | 3.8 |
 | OpenCV | 4.8.1 |
