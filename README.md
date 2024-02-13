@@ -28,14 +28,14 @@ We use latest deep learning model which provide the accuracy approximately than 
 
 Use labelimg library to label the images to create a label data set and train our model to 
 
-<img src="Source\Images\Labeling.png" alt="Input Image" style="width:600px;"/>
+<img src="Source\Images\Labeling.png" alt="Input Image" style="width:800px;"/>
 
 ### Traning Data
-<img src="Source\Images\TraningData.png" alt="Output Image" style="width:600px;"/>
+<img src="Source\Images\TraningData.png" alt="Output Image" style="width:800px;"/>
 
 ## Traning Rusult
 
-<img src="Source\Images\results.png" alt="Output Image" style="width:600px;"/>
+<img src="Source\Images\results.png" alt="Output Image" style="width:800px;"/>
 
 ## Testing
 1.	After that we provide the camera access or input image to model.
