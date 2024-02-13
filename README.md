@@ -20,7 +20,7 @@ We use latest deep learning model which provide the accuracy approximately than 
 
 ## Procedure
 
-#Open terminal and run **_{```pip install requirements.txt```}_**
+#Open terminal and run **_{```pip install -r requirements.txt```}_**
 
 #And run **"run.py"**
 
