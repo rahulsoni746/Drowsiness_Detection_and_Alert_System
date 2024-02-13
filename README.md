@@ -5,24 +5,37 @@ This Deep Learning project detect the drowsiness and sleepiness and alert the hu
 
 We use latest deep learning model which provide the accuracy approximately than 70%-80%. We use YOLOv8 model which can detect multiple features of human face.
 
-## Dependencies
-•	Ultralitics
+## Packages Used
 
-•	Torch
+| Packages             | Versions                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Python | 3.8 |
+| OpenCV | 4.8.1 |
+| Yolo | 8.0.2 |
+| PyTorch | 2.1.2 |
+| LabelImg | 1.8.6 |
+| Pyttsx3 | 2.90 |
 
-•	labelimg
 
-•	time
+## Run Locally
 
-•	numpy
+Clone the project
 
-•	pyttsx3
+```bash
+  git clone https://github.com/rahulsoni746/Drowsiness_Detection_and_Alert_System.git
+```
 
-## Procedure
+Go to the project directory
 
-#Open terminal and run **_{```pip install -r requirements.txt```}_**
+```bash
+  cd <path>
+```
 
-#And run **"run.py"**
+Install dependencies
+
+```bash
+  pip install -r requirements.txt
+```
 
 ## Training
 
@@ -44,7 +57,7 @@ Use labelimg library to label the images to create a label data set and train ou
 
 3.	After that it will either alert or continue the execution till any interruption.
 
-## Code
+## Source Code
 
 ```
 import cv2
@@ -86,9 +99,11 @@ cv2.destroyAllWindows()
 
 👨🏻‍💼RAHUL SONI
 
-
-## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-soni-004861227)
 
 [![GitHub](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2F&style=social&logo=GitHub&logoColor=Black&label=GitHub&labelColor=abcdef&color=fedcba&cacheSeconds=3600
 )](https://github.com/rahulsoni746)
+
+## Feedback
+
+If you have any feedback, please reach out to us at rahulsoni@gmail.com
