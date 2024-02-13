@@ -28,7 +28,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd <directorypath>
+  cd <directory_path>
 ```
 
 Install dependencies
