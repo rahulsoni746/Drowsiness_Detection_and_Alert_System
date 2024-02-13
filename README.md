@@ -7,14 +7,14 @@ We use latest deep learning model which provide the accuracy approximately than 
 
 ## Packages Used
 
-| **Package**             | **Version**                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Python | 3.8 |
-| OpenCV | 4.8.1 |
-| Yolo | 8.0.2 |
-| PyTorch | 2.1.2 |
-| LabelImg | 1.8.6 |
-| Pyttsx3 | 2.90 |
+| **Package** | **Version** |
+| ----------- | ----------- |
+| Python      | 3.8         |
+| OpenCV      | 4.8.1       |
+| Yolo        | 8.0.2       |
+| PyTorch     | 2.1.2       |
+| LabelImg    | 1.8.6       |
+| Pyttsx3     | 2.90        |
 
 
 ## Run Locally
