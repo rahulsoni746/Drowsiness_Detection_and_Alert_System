@@ -77,6 +77,6 @@ cv2.destroyAllWindows()
 ## Input Image
 <img src="Source\Images\input.jpg" alt="Input Image" style="width:600px;"/>
 
-## Preducted Image
+## Predicted Image
 <img src="Source\Images\output.jpg" alt="Output Image" style="width:600px;"/>
 
