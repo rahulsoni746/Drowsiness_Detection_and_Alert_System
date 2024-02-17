@@ -3,7 +3,7 @@
 
 This Deep Learning project detect the drowsiness and sleepiness and alert the human being to meet an accident.
 
-We use latest deep learning model which provide the accuracy approximately than 70%-80%. We use YOLOv8 model which can detect multiple features of human face.
+We use latest deep learning model which provide the accuracy approximately than 75%-85%. We use YOLOv8 model which can detect multiple features of human face.
 
 ## Packages Used
 
@@ -112,6 +112,10 @@ If you have any feedback, please reach out to us at rahulsoni@gmail.com
 
 Or
 
+Report any issue here
+<br>
+👇👇👇
+<br>
 [![GitHub](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com&style=social&logo=GitHub&label=issue&labelColor=grey&color=grey
 )](https://github.com/rahulsoni746/Drowsiness_Detection_and_Alert_System/issues)
 
