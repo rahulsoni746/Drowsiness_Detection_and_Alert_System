@@ -59,7 +59,7 @@ Use labelimg library to label the images to create a label data set and train ou
 
 ## Source Code
 
-```
+```Python
 import cv2
 import torch
 from ultralytics import YOLO
